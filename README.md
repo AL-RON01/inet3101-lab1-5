@@ -1,4 +1,4 @@
-# INET3101 - Lab 1.5
+# INET 3101 - Lab 1.5
 
 This repository contains my solutions and implementations for Lab 1.5, focusing on dynamic memory allocation in C and object-oriented concepts.
 
