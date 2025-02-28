@@ -33,7 +33,7 @@ This approach is memory-safe, efficient, and provides a seamless user experience
 In Object-Oriented Programming (OOP), objects are self-enclosed units combining data (attributes) and behavior (methods) into a single entity. Classes serve as blueprints for objects.
 
 Python Lists demonstrate these OOP principles by:
-- Encapsulating both data elements and methods (`append()`, `insert()`, `sort()`, etc.)
+- Summarize both data elements and methods (`append()`, `insert()`, `sort()`, etc.)
 - Hiding implementation details (like dynamic memory allocation)
 - Providing a clean interface for data manipulation
 - Handling complex operations without requiring manual memory management
@@ -41,7 +41,7 @@ Python Lists demonstrate these OOP principles by:
 ## Linked Lists
 
 The linked list implementation demonstrates an alternative approach to managing collections of data. Advantages include:
-- Dynamic growth without reallocation of entire blocks
+- Strong growth without reallocation of entire blocks
 - Efficient insertions and deletions
 - Flexibility in memory usage
 
