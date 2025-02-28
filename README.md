@@ -47,14 +47,3 @@ The linked list implementation demonstrates an alternative approach to managing 
 
 Linked lists solve similar problems to dynamic arrays but with different trade-offs in terms of memory overhead, access patterns, and cache locality.
 
-## Requirements
-
-- GCC compiler for C programs
-- Standard C libraries
-
-## Usage
-
-Compile the dynamic memory example:
-```bash
-gcc -o dynamic_memory dynamic_memory.c
-./dynamic_memory 5
